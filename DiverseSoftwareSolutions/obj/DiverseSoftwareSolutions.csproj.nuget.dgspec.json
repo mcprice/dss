@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mattp\\source\\repos\\DiverseSoftwareSolutions\\DiverseSoftwareSolutions\\DiverseSoftwareSolutions.csproj": {}
+    "C:\\DiverseSoftwareSolutions\\dss\\DiverseSoftwareSolutions\\DiverseSoftwareSolutions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mattp\\source\\repos\\DiverseSoftwareSolutions\\DiverseSoftwareSolutions\\DiverseSoftwareSolutions.csproj": {
+    "C:\\DiverseSoftwareSolutions\\dss\\DiverseSoftwareSolutions\\DiverseSoftwareSolutions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mattp\\source\\repos\\DiverseSoftwareSolutions\\DiverseSoftwareSolutions\\DiverseSoftwareSolutions.csproj",
+        "projectUniqueName": "C:\\DiverseSoftwareSolutions\\dss\\DiverseSoftwareSolutions\\DiverseSoftwareSolutions.csproj",
         "projectName": "DiverseSoftwareSolutions",
-        "projectPath": "C:\\Users\\mattp\\source\\repos\\DiverseSoftwareSolutions\\DiverseSoftwareSolutions\\DiverseSoftwareSolutions.csproj",
+        "projectPath": "C:\\DiverseSoftwareSolutions\\dss\\DiverseSoftwareSolutions\\DiverseSoftwareSolutions.csproj",
         "packagesPath": "C:\\Users\\mattp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mattp\\source\\repos\\DiverseSoftwareSolutions\\DiverseSoftwareSolutions\\obj\\",
+        "outputPath": "C:\\DiverseSoftwareSolutions\\dss\\DiverseSoftwareSolutions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
