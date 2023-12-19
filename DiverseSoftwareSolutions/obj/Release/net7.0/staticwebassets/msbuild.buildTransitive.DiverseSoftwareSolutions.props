@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DiverseSoftwareSolutions.props" />
+</Project>

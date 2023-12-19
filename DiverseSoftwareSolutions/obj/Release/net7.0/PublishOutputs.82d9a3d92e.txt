@@ -1,0 +1,7 @@
+C:\Users\mattp\source\repos\DiverseSoftwareSolutions\DiverseSoftwareSolutions\obj\Release\net7.0\PubTmp\Out\DiverseSoftwareSolutions.exe
+C:\Users\mattp\source\repos\DiverseSoftwareSolutions\DiverseSoftwareSolutions\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\mattp\source\repos\DiverseSoftwareSolutions\DiverseSoftwareSolutions\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\mattp\source\repos\DiverseSoftwareSolutions\DiverseSoftwareSolutions\obj\Release\net7.0\PubTmp\Out\DiverseSoftwareSolutions.dll
+C:\Users\mattp\source\repos\DiverseSoftwareSolutions\DiverseSoftwareSolutions\obj\Release\net7.0\PubTmp\Out\DiverseSoftwareSolutions.deps.json
+C:\Users\mattp\source\repos\DiverseSoftwareSolutions\DiverseSoftwareSolutions\obj\Release\net7.0\PubTmp\Out\DiverseSoftwareSolutions.runtimeconfig.json
+C:\Users\mattp\source\repos\DiverseSoftwareSolutions\DiverseSoftwareSolutions\obj\Release\net7.0\PubTmp\Out\DiverseSoftwareSolutions.pdb
